@@ -12,3 +12,4 @@ Export a CloudWatch log groups to S3 on a recurring schedule using Lambda and Cl
       s3_bucket        = "my-s3-bucket"
       s3_prefix        = "cloudwatch/prd/vpc_flow_logs"
     }
+
